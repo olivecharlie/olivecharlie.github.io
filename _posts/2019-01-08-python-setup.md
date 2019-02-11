@@ -10,3 +10,4 @@ categories: python blog
 3. Ensure Python interperater is in the Path
 4. For pip, ensure cl.exe is in the Path by installing Visual C++ Build Tools from the VS installer
 
+
